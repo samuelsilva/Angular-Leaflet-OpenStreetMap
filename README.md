@@ -22,13 +22,13 @@ Then I managed to increment some things, such as the use of "async/await" to fet
 - [Leaflet](https://leafletjs.com/)
 
 ## BASIC INSTALLATIONS
-TODO LIST
-[] Write the step by step of the project installations:
-[] -> Angular Material
-[] -> Angular Material/Navigation
-[] -> Leaflet/
-[] Create an API NodeJS that import the points from an existent System
-[] Create the service to link the API with this system
+TODO LIST <br />
+- [ ] Write the step by step of the project installations:
+- [ ] -> Angular Material
+- [ ] -> Angular Material/Navigation
+- [ ] -> Leaflet/
+- [ ] Create an API NodeJS that import the points from an existent System
+- [ ] Create the service to link the API with this system
 
   npm install @angular/material <br>
   npm install @angular/material@15.2.9<br>
