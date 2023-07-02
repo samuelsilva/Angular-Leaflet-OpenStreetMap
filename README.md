@@ -12,7 +12,7 @@ Then I managed to increment some things, such as the use of "async/await" to fet
 - <img align="center" alt="Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" /> Angular (Frontend)
 - <img align="center" alt="Material" height="30" width="40" src="https://material.angular.io/assets/img/angular-material-logo.svg" /> Angular Material (Frontend)
 - <img align="center" alt="OpenStreetMap" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/b/b0/Openstreetmap_logo.svg" /> Open Street Map (Frontend)
-- <img align="center" alt="Leaflet" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/1/13/Leaflet_logo.svg" /> Leaflet (Frontend)
+- <img align="center" alt="Leaflet" height="30" width="40" src="https://github.com/Leaflet/Leaflet/blob/main/src/images/logo.svg" /> Leaflet (Frontend)
 <br />
 
 
